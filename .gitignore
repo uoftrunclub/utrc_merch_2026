@@ -1,0 +1,2 @@
+# Local-only: 2MB self-contained build used just for Claude Artifact previews, not needed for the live site
+preview-artifact.html
